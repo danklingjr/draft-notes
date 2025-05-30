@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    @apply bg-[#0A1929] min-h-screen;
+  }
+  
+  #root {
+    @apply min-h-screen;
+  }
+} 

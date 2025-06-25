@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Buffalo\n                                Bills",
+    "team": "BUF",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/BUF.svg",
+    "projectedPoints": 119,
+    "bye": 7
+  },
+  {
+    "name": "Baltimore\n                                Ravens",
+    "team": "BAL",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/BAL.svg",
+    "projectedPoints": 114,
+    "bye": 7
+  },
+  {
+    "name": "Dallas\n                                Cowboys",
+    "team": "DAL",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/DAL.svg",
+    "projectedPoints": 114,
+    "bye": 10
+  },
+  {
+    "name": "Houston\n                                Texans",
+    "team": "HOU",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/HOU.svg",
+    "projectedPoints": 113,
+    "bye": 6
+  },
+  {
+    "name": "Denver\n                                Broncos",
+    "team": "DEN",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/DEN.svg",
+    "projectedPoints": 111,
+    "bye": 12
+  },
+  {
+    "name": "Green Bay\n                                Packers",
+    "team": "GB",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/GB.svg",
+    "projectedPoints": 111,
+    "bye": 5
+  },
+  {
+    "name": "Pittsburgh\n                                Steelers",
+    "team": "PIT",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/PIT.svg",
+    "projectedPoints": 108,
+    "bye": 5
+  },
+  {
+    "name": "San Francisco\n                                49ers",
+    "team": "SF",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/SF.svg",
+    "projectedPoints": 110,
+    "bye": 14
+  },
+  {
+    "name": "New York\n                                Jets",
+    "team": "NYJ",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/NYJ.svg",
+    "projectedPoints": 109,
+    "bye": 9
+  },
+  {
+    "name": "Kansas City\n                                Chiefs",
+    "team": "KC",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/KC.svg",
+    "projectedPoints": 109,
+    "bye": 10
+  },
+  {
+    "name": "Minnesota\n                                Vikings",
+    "team": "MIN",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/MIN.svg",
+    "projectedPoints": 105,
+    "bye": 6
+  },
+  {
+    "name": "Philadelphia\n                                Eagles",
+    "team": "PHI",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/PHI.svg",
+    "projectedPoints": 104,
+    "bye": 9
+  },
+  {
+    "name": "Cleveland\n                                Browns",
+    "team": "CLE",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/CLE.svg",
+    "projectedPoints": 103,
+    "bye": 9
+  },
+  {
+    "name": "Tampa Bay\n                                Buccaneers",
+    "team": "TB",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/TB.svg",
+    "projectedPoints": 104,
+    "bye": 9
+  },
+  {
+    "name": "Los Angeles\n                                Rams",
+    "team": "LAR",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/LAR.svg",
+    "projectedPoints": 102,
+    "bye": 8
+  },
+  {
+    "name": "Seattle\n                                Seahawks",
+    "team": "SEA",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/SEA.svg",
+    "projectedPoints": 102,
+    "bye": 8
+  },
+  {
+    "name": "New England\n                                Patriots",
+    "team": "NE",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/NE.svg",
+    "projectedPoints": 102,
+    "bye": 14
+  },
+  {
+    "name": "Detroit\n                                Lions",
+    "team": "DET",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/DET.svg",
+    "projectedPoints": 100,
+    "bye": 8
+  },
+  {
+    "name": "New York\n                                Giants",
+    "team": "NYG",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/NYG.svg",
+    "projectedPoints": 97,
+    "bye": 14
+  },
+  {
+    "name": "Washington\n                                Commanders",
+    "team": "WAS",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/WAS.svg",
+    "projectedPoints": 95,
+    "bye": 12
+  },
+  {
+    "name": "Indianapolis\n                                Colts",
+    "team": "IND",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/IND.svg",
+    "projectedPoints": 94,
+    "bye": 11
+  },
+  {
+    "name": "Chicago\n                                Bears",
+    "team": "CHI",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/CHI.svg",
+    "projectedPoints": 93,
+    "bye": 5
+  },
+  {
+    "name": "Miami\n                                Dolphins",
+    "team": "MIA",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/MIA.svg",
+    "projectedPoints": 93,
+    "bye": 12
+  },
+  {
+    "name": "Jacksonville\n                                Jaguars",
+    "team": "JAC",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/JAC.svg",
+    "projectedPoints": 93,
+    "bye": 8
+  },
+  {
+    "name": "Atlanta\n                                Falcons",
+    "team": "ATL",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/ATL.svg",
+    "projectedPoints": 92,
+    "bye": 5
+  },
+  {
+    "name": "Los Angeles\n                                Chargers",
+    "team": "LAC",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/LAC.svg",
+    "projectedPoints": 91,
+    "bye": 12
+  },
+  {
+    "name": "Carolina\n                                Panthers",
+    "team": "CAR",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/CAR.svg",
+    "projectedPoints": 90,
+    "bye": 14
+  },
+  {
+    "name": "Arizona\n                                Cardinals",
+    "team": "ARI",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/ARI.svg",
+    "projectedPoints": 90,
+    "bye": 8
+  },
+  {
+    "name": "New Orleans\n                                Saints",
+    "team": "NO",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/NO.svg",
+    "projectedPoints": 90,
+    "bye": 11
+  },
+  {
+    "name": "Tennessee\n                                Titans",
+    "team": "TEN",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/TEN.svg",
+    "projectedPoints": 88,
+    "bye": 10
+  },
+  {
+    "name": "Cincinnati\n                                Bengals",
+    "team": "CIN",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/CIN.svg",
+    "projectedPoints": 85,
+    "bye": 10
+  },
+  {
+    "name": "Las Vegas\n                                Raiders",
+    "team": "LVR",
+    "position": "DEF",
+    "avatarUrl": "https://www.draftsharks.com/img/icons/teams/LVR.svg",
+    "projectedPoints": 84,
+    "bye": 8
+  }
+]

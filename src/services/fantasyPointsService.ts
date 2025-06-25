@@ -14,19 +14,15 @@ export async function getFantasyPoints(player: NFLPlayer): Promise<FantasyPoints
   }
 
   try {
-    // Construct search query
-    const searchQuery = `${player.fullName} ${player.team} ${player.position} fantasy points 2024 projections`;
-    
-    // TODO: Replace with actual API call to fantasy data provider
-    // For now, return mock data based on position
-    const mockData: FantasyPointsData = {
-      lastSeasonPoints: getMockLastSeasonPoints(player),
-      projectedPoints: getMockProjectedPoints(player),
+    // TODO: Implement real API call to fantasy data provider
+    const data: FantasyPointsData = {
+      lastSeasonPoints: 0,
+      projectedPoints: 0,
     };
 
     // Cache the results
-    fantasyPointsCache.set(player.id, mockData);
-    return mockData;
+    fantasyPointsCache.set(player.id, data);
+    return data;
   } catch (error) {
     console.error('Error fetching fantasy points:', error);
     return {};

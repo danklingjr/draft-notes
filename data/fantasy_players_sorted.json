@@ -1,0 +1,4114 @@
+[
+  {
+    "name":"Jayden Daniels",
+    "team":"WAS",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":384,
+    "bye":12
+  },
+  {
+    "name":"Lamar Jackson",
+    "team":"BAL",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":382,
+    "bye":7
+  },
+  {
+    "name":"Jalen Hurts",
+    "team":"PHI",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":379,
+    "bye":9
+  },
+  {
+    "name":"Josh Allen",
+    "team":"BUF",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":375,
+    "bye":7
+  },
+  {
+    "name":"Joe Burrow",
+    "team":"CIN",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":368,
+    "bye":10
+  },
+  {
+    "name":"Patrick Mahomes",
+    "team":"KC",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":333,
+    "bye":10
+  },
+  {
+    "name":"Bo Nix",
+    "team":"DEN",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":322,
+    "bye":12
+  },
+  {
+    "name":"Justin Fields",
+    "team":"NYJ",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":318,
+    "bye":9
+  },
+  {
+    "name":"Baker Mayfield",
+    "team":"TB",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":317,
+    "bye":9
+  },
+  {
+    "name":"Kyler Murray",
+    "team":"ARI",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":316,
+    "bye":8
+  },
+  {
+    "name":"Caleb Williams",
+    "team":"CHI",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":316,
+    "bye":5
+  },
+  {
+    "name":"Justin Herbert",
+    "team":"LAC",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":315,
+    "bye":12
+  },
+  {
+    "name":"Dak Prescott",
+    "team":"DAL",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":307,
+    "bye":10
+  },
+  {
+    "name":"Trevor Lawrence",
+    "team":"JAC",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":304,
+    "bye":8
+  },
+  {
+    "name":"J.J. McCarthy",
+    "team":"MIN",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":304,
+    "bye":6
+  },
+  {
+    "name":"Drake Maye",
+    "team":"NE",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":303,
+    "bye":14
+  },
+  {
+    "name":"Brock Purdy",
+    "team":"SF",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":303,
+    "bye":14
+  },
+  {
+    "name":"Jordan Love",
+    "team":"GB",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":302,
+    "bye":5
+  },
+  {
+    "name":"Jared Goff",
+    "team":"DET",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":300,
+    "bye":8
+  },
+  {
+    "name":"C.J. Stroud",
+    "team":"HOU",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":295,
+    "bye":6
+  },
+  {
+    "name":"Bryce Young",
+    "team":"CAR",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":294,
+    "bye":14
+  },
+  {
+    "name":"Tua Tagovailoa",
+    "team":"MIA",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":293,
+    "bye":12
+  },
+  {
+    "name":"Saquon Barkley",
+    "team":"PHI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":281,
+    "bye":9
+  },
+  {
+    "name":"Geno Smith",
+    "team":"LVR",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":276,
+    "bye":8
+  },
+  {
+    "name":"Cameron Ward",
+    "team":"TEN",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":274,
+    "bye":10
+  },
+  {
+    "name":"Matthew Stafford",
+    "team":"LAR",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":273,
+    "bye":8
+  },
+  {
+    "name":"Sam Darnold",
+    "team":"SEA",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":271,
+    "bye":8
+  },
+  {
+    "name":"Bijan Robinson",
+    "team":"ATL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":269,
+    "bye":5
+  },
+  {
+    "name":"Anthony Richardson",
+    "team":"IND",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":267,
+    "bye":11
+  },
+  {
+    "name":"Derrick Henry",
+    "team":"BAL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":266,
+    "bye":7
+  },
+  {
+    "name":"Michael Penix Jr.",
+    "team":"ATL",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":266,
+    "bye":5
+  },
+  {
+    "name":"Christian McCaffrey",
+    "team":"SF",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":254,
+    "bye":14
+  },
+  {
+    "name":"Russell Wilson",
+    "team":"NYG",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":253,
+    "bye":14
+  },
+  {
+    "name":"Jonathan Taylor",
+    "team":"IND",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":251,
+    "bye":11
+  },
+  {
+    "name":"Aaron Rodgers",
+    "team":"PIT",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":247,
+    "bye":5
+  },
+  {
+    "name":"Jahmyr Gibbs",
+    "team":"DET",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":245,
+    "bye":8
+  },
+  {
+    "name":"Tyler Shough",
+    "team":"NO",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":244,
+    "bye":11
+  },
+  {
+    "name":"Ashton Jeanty",
+    "team":"LVR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":238,
+    "bye":8
+  },
+  {
+    "name":"Ja'Marr Chase",
+    "team":"CIN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":228,
+    "bye":10
+  },
+  {
+    "name":"Josh Jacobs",
+    "team":"GB",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":224,
+    "bye":5
+  },
+  {
+    "name":"De'Von Achane",
+    "team":"MIA",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":221,
+    "bye":12
+  },
+  {
+    "name":"Joe Mixon",
+    "team":"HOU",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":219,
+    "bye":6
+  },
+  {
+    "name":"Kyren Williams",
+    "team":"LAR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":216,
+    "bye":8
+  },
+  {
+    "name":"Bucky Irving",
+    "team":"TB",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":215,
+    "bye":9
+  },
+  {
+    "name":"CeeDee Lamb",
+    "team":"DAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":212,
+    "bye":10
+  },
+  {
+    "name":"James Cook",
+    "team":"BUF",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":211,
+    "bye":7
+  },
+  {
+    "name":"Justin Jefferson",
+    "team":"MIN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":208,
+    "bye":6
+  },
+  {
+    "name":"Chuba Hubbard",
+    "team":"CAR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":207,
+    "bye":14
+  },
+  {
+    "name":"Puka Nacua",
+    "team":"LAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":206,
+    "bye":8
+  },
+  {
+    "name":"Chase Brown",
+    "team":"CIN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":205,
+    "bye":10
+  },
+  {
+    "name":"James Conner",
+    "team":"ARI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":204,
+    "bye":8
+  },
+  {
+    "name":"Nico Collins",
+    "team":"HOU",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":204,
+    "bye":6
+  },
+  {
+    "name":"Kenneth Walker III",
+    "team":"SEA",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":202,
+    "bye":8
+  },
+  {
+    "name":"Breece Hall",
+    "team":"NYJ",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":202,
+    "bye":9
+  },
+  {
+    "name":"Brian Thomas Jr.",
+    "team":"JAC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":199,
+    "bye":8
+  },
+  {
+    "name":"Alvin Kamara",
+    "team":"NO",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":198,
+    "bye":11
+  },
+  {
+    "name":"Malik Nabers",
+    "team":"NYG",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":193,
+    "bye":14
+  },
+  {
+    "name":"A.J. Brown",
+    "team":"PHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":190,
+    "bye":9
+  },
+  {
+    "name":"David Montgomery",
+    "team":"DET",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":185,
+    "bye":8
+  },
+  {
+    "name":"Aaron Jones",
+    "team":"MIN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":184,
+    "bye":6
+  },
+  {
+    "name":"Tee Higgins",
+    "team":"CIN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":183,
+    "bye":10
+  },
+  {
+    "name":"Drake London",
+    "team":"ATL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":181,
+    "bye":5
+  },
+  {
+    "name":"Quinshon Judkins",
+    "team":"CLE",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":178,
+    "bye":9
+  },
+  {
+    "name":"Tyreek Hill",
+    "team":"MIA",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":176,
+    "bye":12
+  },
+  {
+    "name":"Omarion Hampton",
+    "team":"LAC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":174,
+    "bye":12
+  },
+  {
+    "name":"Mike Evans",
+    "team":"TB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":174,
+    "bye":9
+  },
+  {
+    "name":"Amon-Ra St. Brown",
+    "team":"DET",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":173,
+    "bye":8
+  },
+  {
+    "name":"Isiah Pacheco",
+    "team":"KC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":170,
+    "bye":10
+  },
+  {
+    "name":"Brandon Aubrey",
+    "team":"DAL",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":168,
+    "bye":10
+  },
+  {
+    "name":"Younghoe Koo",
+    "team":"ATL",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":163,
+    "bye":5
+  },
+  {
+    "name":"Cameron Dicker",
+    "team":"LAC",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":163,
+    "bye":12
+  },
+  {
+    "name":"Brock Bowers",
+    "team":"LVR",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":163,
+    "bye":8
+  },
+  {
+    "name":"D.K. Metcalf",
+    "team":"PIT",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":162,
+    "bye":5
+  },
+  {
+    "name":"Tony Pollard",
+    "team":"TEN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":162,
+    "bye":10
+  },
+  {
+    "name":"Brian Robinson Jr.",
+    "team":"WAS",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":162,
+    "bye":12
+  },
+  {
+    "name":"D'Andre Swift",
+    "team":"CHI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":161,
+    "bye":5
+  },
+  {
+    "name":"Terry McLaurin",
+    "team":"WAS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":160,
+    "bye":12
+  },
+  {
+    "name":"Davante Adams",
+    "team":"LAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":160,
+    "bye":8
+  },
+  {
+    "name":"Rashee Rice",
+    "team":"KC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":160,
+    "bye":10
+  },
+  {
+    "name":"TreVeyon Henderson",
+    "team":"NE",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":160,
+    "bye":14
+  },
+  {
+    "name":"RJ Harvey",
+    "team":"DEN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":159,
+    "bye":12
+  },
+  {
+    "name":"Ladd McConkey",
+    "team":"LAC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":159,
+    "bye":12
+  },
+  {
+    "name":"D.J. Moore",
+    "team":"CHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":156,
+    "bye":5
+  },
+  {
+    "name":"Jake Elliott",
+    "team":"PHI",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":156,
+    "bye":9
+  },
+  {
+    "name":"Matt Gay",
+    "team":"WAS",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":156,
+    "bye":12
+  },
+  {
+    "name":"Jake Bates",
+    "team":"DET",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":155,
+    "bye":8
+  },
+  {
+    "name":"Cam Little",
+    "team":"JAC",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":155,
+    "bye":8
+  },
+  {
+    "name":"Marvin Harrison Jr.",
+    "team":"ARI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":155,
+    "bye":8
+  },
+  {
+    "name":"Brandon McManus",
+    "team":"GB",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":155,
+    "bye":5
+  },
+  {
+    "name":"Kaleb Johnson",
+    "team":"PIT",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":154,
+    "bye":5
+  },
+  {
+    "name":"Courtland Sutton",
+    "team":"DEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":154,
+    "bye":12
+  },
+  {
+    "name":"Xavier Worthy",
+    "team":"KC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":154,
+    "bye":10
+  },
+  {
+    "name":"Ka'imi Fairbairn",
+    "team":"HOU",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":153,
+    "bye":6
+  },
+  {
+    "name":"Trey McBride",
+    "team":"ARI",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":152,
+    "bye":8
+  },
+  {
+    "name":"Jameson Williams",
+    "team":"DET",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":152,
+    "bye":8
+  },
+  {
+    "name":"Harrison Butker",
+    "team":"KC",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":151,
+    "bye":10
+  },
+  {
+    "name":"Zay Flowers",
+    "team":"BAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":151,
+    "bye":7
+  },
+  {
+    "name":"Jaylen Waddle",
+    "team":"MIA",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":150,
+    "bye":12
+  },
+  {
+    "name":"George Pickens",
+    "team":"DAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":150,
+    "bye":10
+  },
+  {
+    "name":"Jason Sanders",
+    "team":"MIA",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":150,
+    "bye":12
+  },
+  {
+    "name":"Daniel Carlson",
+    "team":"LVR",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":150,
+    "bye":8
+  },
+  {
+    "name":"Tetairoa McMillan",
+    "team":"CAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":148,
+    "bye":14
+  },
+  {
+    "name":"Tyler Loop",
+    "team":"BAL",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":148,
+    "bye":7
+  },
+  {
+    "name":"George Kittle",
+    "team":"SF",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":147,
+    "bye":14
+  },
+  {
+    "name":"Wil Lutz",
+    "team":"DEN",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":146,
+    "bye":12
+  },
+  {
+    "name":"Jaxon Smith-Njigba",
+    "team":"SEA",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":146,
+    "bye":8
+  },
+  {
+    "name":"Evan McPherson",
+    "team":"CIN",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":146,
+    "bye":10
+  },
+  {
+    "name":"Chase McLaughlin",
+    "team":"TB",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":146,
+    "bye":9
+  },
+  {
+    "name":"Joshua Karty",
+    "team":"LAR",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":146,
+    "bye":8
+  },
+  {
+    "name":"DeVonta Smith",
+    "team":"PHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":146,
+    "bye":9
+  },
+  {
+    "name":"Chris Boswell",
+    "team":"PIT",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":145,
+    "bye":5
+  },
+  {
+    "name":"Calvin Ridley",
+    "team":"TEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":145,
+    "bye":10
+  },
+  {
+    "name":"Chad Ryland",
+    "team":"ARI",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":145,
+    "bye":8
+  },
+  {
+    "name":"Cairo Santos",
+    "team":"CHI",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":145,
+    "bye":5
+  },
+  {
+    "name":"Garrett Wilson",
+    "team":"NYJ",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":144,
+    "bye":9
+  },
+  {
+    "name":"Deebo Samuel",
+    "team":"WAS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":143,
+    "bye":12
+  },
+  {
+    "name":"Jason Myers",
+    "team":"SEA",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":143,
+    "bye":8
+  },
+  {
+    "name":"Jayden Reed",
+    "team":"GB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":141,
+    "bye":5
+  },
+  {
+    "name":"Travis Hunter",
+    "team":"JAC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":140,
+    "bye":8
+  },
+  {
+    "name":"Tyler Bass",
+    "team":"BUF",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":139,
+    "bye":7
+  },
+  {
+    "name":"Jaylen Warren",
+    "team":"PIT",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":138,
+    "bye":5
+  },
+  {
+    "name":"Chris Olave",
+    "team":"NO",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":137,
+    "bye":11
+  },
+  {
+    "name":"Daniel Jones",
+    "team":"IND",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":137,
+    "bye":11
+  },
+  {
+    "name":"Jakobi Meyers",
+    "team":"LVR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":137,
+    "bye":8
+  },
+  {
+    "name":"Chris Godwin",
+    "team":"TB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":136,
+    "bye":9
+  },
+  {
+    "name":"Spencer Shrader",
+    "team":"IND",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":135,
+    "bye":11
+  },
+  {
+    "name":"Jordan Addison",
+    "team":"MIN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":135,
+    "bye":6
+  },
+  {
+    "name":"Will Reichard",
+    "team":"MIN",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":134,
+    "bye":6
+  },
+  {
+    "name":"Cameron Skattebo",
+    "team":"NYG",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":132,
+    "bye":14
+  },
+  {
+    "name":"Tyrone Tracy Jr.",
+    "team":"NYG",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":132,
+    "bye":14
+  },
+  {
+    "name":"Andres Borregales",
+    "team":"NE",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":131,
+    "bye":14
+  },
+  {
+    "name":"Tank Bigsby",
+    "team":"JAC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":131,
+    "bye":8
+  },
+  {
+    "name":"Travis Etienne",
+    "team":"JAC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":131,
+    "bye":8
+  },
+  {
+    "name":"Jauan Jennings",
+    "team":"SF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":130,
+    "bye":14
+  },
+  {
+    "name":"Harrison Mevis",
+    "team":"NYJ",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":129,
+    "bye":9
+  },
+  {
+    "name":"Blake Grupe",
+    "team":"NO",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":129,
+    "bye":11
+  },
+  {
+    "name":"Joey Slye",
+    "team":"TEN",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":128,
+    "bye":10
+  },
+  {
+    "name":"Khalil Shakir",
+    "team":"BUF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":128,
+    "bye":7
+  },
+  {
+    "name":"Rome Odunze",
+    "team":"CHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":127,
+    "bye":5
+  },
+  {
+    "name":"Najee Harris",
+    "team":"LAC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":126,
+    "bye":12
+  },
+  {
+    "name":"Jerry Jeudy",
+    "team":"CLE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":125,
+    "bye":9
+  },
+  {
+    "name":"Dustin Hopkins",
+    "team":"CLE",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":122,
+    "bye":9
+  },
+  {
+    "name":"Sam LaPorta",
+    "team":"DET",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":122,
+    "bye":8
+  },
+  {
+    "name":"Graham Gano",
+    "team":"NYG",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":121,
+    "bye":14
+  },
+  {
+    "name":"Darnell Mooney",
+    "team":"ATL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":118,
+    "bye":5
+  },
+  {
+    "name":"Keon Coleman",
+    "team":"BUF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":116,
+    "bye":7
+  },
+  {
+    "name":"Rashid Shaheed",
+    "team":"NO",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":116,
+    "bye":11
+  },
+  {
+    "name":"Mark Andrews",
+    "team":"BAL",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":116,
+    "bye":7
+  },
+  {
+    "name":"Ricky Pearsall",
+    "team":"SF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":115,
+    "bye":14
+  },
+  {
+    "name":"Austin Ekeler",
+    "team":"WAS",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":114,
+    "bye":12
+  },
+  {
+    "name":"Tyjae Spears",
+    "team":"TEN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":113,
+    "bye":10
+  },
+  {
+    "name":"Travis Kelce",
+    "team":"KC",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":113,
+    "bye":10
+  },
+  {
+    "name":"Javonte Williams",
+    "team":"DAL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":112,
+    "bye":10
+  },
+  {
+    "name":"Christian Kirk",
+    "team":"HOU",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":112,
+    "bye":6
+  },
+  {
+    "name":"Jonnu Smith",
+    "team":"MIA",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":110,
+    "bye":12
+  },
+  {
+    "name":"Marquise Brown",
+    "team":"KC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":110,
+    "bye":10
+  },
+  {
+    "name":"Josh Downs",
+    "team":"IND",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":110,
+    "bye":11
+  },
+  {
+    "name":"David Njoku",
+    "team":"CLE",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":109,
+    "bye":9
+  },
+  {
+    "name":"T.J. Hockenson",
+    "team":"MIN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":108,
+    "bye":6
+  },
+  {
+    "name":"J.K. Dobbins",
+    "team":"DEN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":108,
+    "bye":12
+  },
+  {
+    "name":"Jayden Higgins",
+    "team":"HOU",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":107,
+    "bye":6
+  },
+  {
+    "name":"Romeo Doubs",
+    "team":"GB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":106,
+    "bye":5
+  },
+  {
+    "name":"Michael Pittman Jr.",
+    "team":"IND",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":106,
+    "bye":11
+  },
+  {
+    "name":"Jordan Mason",
+    "team":"MIN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":106,
+    "bye":6
+  },
+  {
+    "name":"Tucker Kraft",
+    "team":"GB",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":105,
+    "bye":5
+  },
+  {
+    "name":"Rhamondre Stevenson",
+    "team":"NE",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":104,
+    "bye":14
+  },
+  {
+    "name":"Brandon Aiyuk",
+    "team":"SF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":104,
+    "bye":14
+  },
+  {
+    "name":"Cooper Kupp",
+    "team":"SEA",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":103,
+    "bye":8
+  },
+  {
+    "name":"Amari Cooper",
+    "team":"UNS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":102,
+    "bye":18
+  },
+  {
+    "name":"Stefon Diggs",
+    "team":"NE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":102,
+    "bye":14
+  },
+  {
+    "name":"Matthew Golden",
+    "team":"GB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":101,
+    "bye":5
+  },
+  {
+    "name":"Luther Burden III",
+    "team":"CHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":100,
+    "bye":5
+  },
+  {
+    "name":"Quentin Johnston",
+    "team":"LAC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":100,
+    "bye":12
+  },
+  {
+    "name":"Rachaad White",
+    "team":"TB",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":100,
+    "bye":9
+  },
+  {
+    "name":"Rashod Bateman",
+    "team":"BAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":100,
+    "bye":7
+  },
+  {
+    "name":"Keenan Allen",
+    "team":"UNS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":99,
+    "bye":18
+  },
+  {
+    "name":"Dalton Kincaid",
+    "team":"BUF",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":99,
+    "bye":7
+  },
+  {
+    "name":"Marvin Mims Jr.",
+    "team":"DEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":99,
+    "bye":12
+  },
+  {
+    "name":"Dallas Goedert",
+    "team":"PHI",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":98,
+    "bye":9
+  },
+  {
+    "name":"Jake Ferguson",
+    "team":"DAL",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":98,
+    "bye":10
+  },
+  {
+    "name":"Xavier Legette",
+    "team":"CAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":96,
+    "bye":14
+  },
+  {
+    "name":"Emeka Egbuka",
+    "team":"TB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":96,
+    "bye":9
+  },
+  {
+    "name":"Joshua Palmer",
+    "team":"BUF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":96,
+    "bye":7
+  },
+  {
+    "name":"Michael Wilson",
+    "team":"ARI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":95,
+    "bye":8
+  },
+  {
+    "name":"Adam Thielen",
+    "team":"CAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":95,
+    "bye":14
+  },
+  {
+    "name":"Tre Harris",
+    "team":"LAC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":94,
+    "bye":12
+  },
+  {
+    "name":"Pat Freiermuth",
+    "team":"PIT",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":94,
+    "bye":5
+  },
+  {
+    "name":"Zach Charbonnet",
+    "team":"SEA",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":94,
+    "bye":8
+  },
+  {
+    "name":"Tyler Warren",
+    "team":"IND",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":94,
+    "bye":11
+  },
+  {
+    "name":"Diontae Johnson",
+    "team":"CLE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":92,
+    "bye":9
+  },
+  {
+    "name":"Jalen Coker",
+    "team":"CAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":92,
+    "bye":14
+  },
+  {
+    "name":"Isaiah Likely",
+    "team":"BAL",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":90,
+    "bye":7
+  },
+  {
+    "name":"Zach Ertz",
+    "team":"WAS",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":89,
+    "bye":12
+  },
+  {
+    "name":"Jaydon Blue",
+    "team":"DAL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":89,
+    "bye":10
+  },
+  {
+    "name":"Tyler Allgeier",
+    "team":"ATL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":88,
+    "bye":5
+  },
+  {
+    "name":"Evan Engram",
+    "team":"DEN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":88,
+    "bye":12
+  },
+  {
+    "name":"Jack Bech",
+    "team":"LVR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":87,
+    "bye":8
+  },
+  {
+    "name":"Cedric Tillman",
+    "team":"CLE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":87,
+    "bye":9
+  },
+  {
+    "name":"Kyle Williams",
+    "team":"NE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":86,
+    "bye":14
+  },
+  {
+    "name":"Darius Slayton",
+    "team":"NYG",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":85,
+    "bye":14
+  },
+  {
+    "name":"Kyle Pitts",
+    "team":"ATL",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":85,
+    "bye":5
+  },
+  {
+    "name":"Bhayshul Tuten",
+    "team":"JAC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":84,
+    "bye":8
+  },
+  {
+    "name":"Cade Otton",
+    "team":"TB",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":84,
+    "bye":9
+  },
+  {
+    "name":"Hunter Henry",
+    "team":"NE",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":83,
+    "bye":14
+  },
+  {
+    "name":"Jalen McMillan",
+    "team":"TB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":83,
+    "bye":9
+  },
+  {
+    "name":"Ray Davis",
+    "team":"BUF",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":83,
+    "bye":7
+  },
+  {
+    "name":"Chigoziem Okonkwo",
+    "team":"TEN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":83,
+    "bye":10
+  },
+  {
+    "name":"Wan'Dale Robinson",
+    "team":"NYG",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":82,
+    "bye":14
+  },
+  {
+    "name":"Mike Gesicki",
+    "team":"CIN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":81,
+    "bye":10
+  },
+  {
+    "name":"Colston Loveland",
+    "team":"CHI",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":81,
+    "bye":5
+  },
+  {
+    "name":"Roschon Johnson",
+    "team":"CHI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":81,
+    "bye":5
+  },
+  {
+    "name":"Dalton Schultz",
+    "team":"HOU",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":80,
+    "bye":6
+  },
+  {
+    "name":"Ray-Ray McCloud",
+    "team":"ATL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":80,
+    "bye":5
+  },
+  {
+    "name":"Alec Pierce",
+    "team":"IND",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":79,
+    "bye":11
+  },
+  {
+    "name":"Jaylen Wright",
+    "team":"MIA",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":77,
+    "bye":12
+  },
+  {
+    "name":"Mike Williams",
+    "team":"LAC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":76,
+    "bye":12
+  },
+  {
+    "name":"Juwan Johnson",
+    "team":"NO",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":76,
+    "bye":11
+  },
+  {
+    "name":"Brenton Strange",
+    "team":"JAC",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":75,
+    "bye":8
+  },
+  {
+    "name":"Justice Hill",
+    "team":"BAL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":75,
+    "bye":7
+  },
+  {
+    "name":"Dylan Sampson",
+    "team":"CLE",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":75,
+    "bye":9
+  },
+  {
+    "name":"Dyami Brown",
+    "team":"JAC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":74,
+    "bye":8
+  },
+  {
+    "name":"Trey Benson",
+    "team":"ARI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":73,
+    "bye":8
+  },
+  {
+    "name":"Dontayvion Wicks",
+    "team":"GB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":73,
+    "bye":5
+  },
+  {
+    "name":"Pat Bryant",
+    "team":"DEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":72,
+    "bye":12
+  },
+  {
+    "name":"Gus Edwards",
+    "team":"UNS",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":71,
+    "bye":18
+  },
+  {
+    "name":"Ryan Fitzgerald",
+    "team":"CAR",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":70,
+    "bye":14
+  },
+  {
+    "name":"Joe Flacco",
+    "team":"CLE",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":70,
+    "bye":9
+  },
+  {
+    "name":"Kareem Hunt",
+    "team":"KC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":70,
+    "bye":10
+  },
+  {
+    "name":"Mason Taylor",
+    "team":"NYJ",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":70,
+    "bye":9
+  },
+  {
+    "name":"Demario Douglas",
+    "team":"NE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":69,
+    "bye":14
+  },
+  {
+    "name":"Tyler Lockett",
+    "team":"TEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":69,
+    "bye":10
+  },
+  {
+    "name":"Calvin Austin III",
+    "team":"PIT",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":68,
+    "bye":5
+  },
+  {
+    "name":"Kayshon Boutte",
+    "team":"NE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":68,
+    "bye":14
+  },
+  {
+    "name":"Isaac Guerendo",
+    "team":"SF",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":68,
+    "bye":14
+  },
+  {
+    "name":"Jerome Ford",
+    "team":"CLE",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":68,
+    "bye":9
+  },
+  {
+    "name":"Jaxson Dart",
+    "team":"NYG",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":67,
+    "bye":14
+  },
+  {
+    "name":"DeAndre Hopkins",
+    "team":"BAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":67,
+    "bye":7
+  },
+  {
+    "name":"Theo Johnson",
+    "team":"NYG",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":67,
+    "bye":14
+  },
+  {
+    "name":"Kendre Miller",
+    "team":"NO",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":67,
+    "bye":11
+  },
+  {
+    "name":"Cole Kmet",
+    "team":"CHI",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":66,
+    "bye":5
+  },
+  {
+    "name":"Tutu Atwell",
+    "team":"LAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":66,
+    "bye":8
+  },
+  {
+    "name":"Blake Corum",
+    "team":"LAR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":66,
+    "bye":8
+  },
+  {
+    "name":"MarShawn Lloyd",
+    "team":"GB",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":66,
+    "bye":5
+  },
+  {
+    "name":"Jaylin Noel",
+    "team":"HOU",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":65,
+    "bye":6
+  },
+  {
+    "name":"Andrei Iosivas",
+    "team":"CIN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":65,
+    "bye":10
+  },
+  {
+    "name":"Roman Wilson",
+    "team":"PIT",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":65,
+    "bye":5
+  },
+  {
+    "name":"Jalen Nailor",
+    "team":"MIN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":64,
+    "bye":6
+  },
+  {
+    "name":"Mack Hollins",
+    "team":"NE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":63,
+    "bye":14
+  },
+  {
+    "name":"Matthew Wright",
+    "team":"CAR",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":63,
+    "bye":14
+  },
+  {
+    "name":"Elijah Mitchell",
+    "team":"KC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":63,
+    "bye":10
+  },
+  {
+    "name":"Marquez Valdes-Scantling",
+    "team":"SEA",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":62,
+    "bye":8
+  },
+  {
+    "name":"Miles Sanders",
+    "team":"DAL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":61,
+    "bye":10
+  },
+  {
+    "name":"KaVontae Turpin",
+    "team":"DAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":61,
+    "bye":10
+  },
+  {
+    "name":"Taysom Hill",
+    "team":"NO",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":61,
+    "bye":11
+  },
+  {
+    "name":"Elijah Arroyo",
+    "team":"SEA",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":59,
+    "bye":8
+  },
+  {
+    "name":"Troy Franklin",
+    "team":"DEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":59,
+    "bye":12
+  },
+  {
+    "name":"D.J. Chark Jr.",
+    "team":"UNS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":58,
+    "bye":18
+  },
+  {
+    "name":"Rico Dowdle",
+    "team":"CAR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":58,
+    "bye":14
+  },
+  {
+    "name":"Shedeur Sanders",
+    "team":"CLE",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":58,
+    "bye":9
+  },
+  {
+    "name":"Gabriel Davis",
+    "team":"UNS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":58,
+    "bye":18
+  },
+  {
+    "name":"Dont'e Thornton Jr.",
+    "team":"LVR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":58,
+    "bye":8
+  },
+  {
+    "name":"Jordan Whittington",
+    "team":"LAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":57,
+    "bye":8
+  },
+  {
+    "name":"Dillon Gabriel",
+    "team":"CLE",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":57,
+    "bye":9
+  },
+  {
+    "name":"Josh Reynolds",
+    "team":"NYJ",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":57,
+    "bye":9
+  },
+  {
+    "name":"Curtis Samuel",
+    "team":"BUF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":57,
+    "bye":7
+  },
+  {
+    "name":"Kirk Cousins",
+    "team":"ATL",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":56,
+    "bye":5
+  },
+  {
+    "name":"Tim Patrick",
+    "team":"DET",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":56,
+    "bye":8
+  },
+  {
+    "name":"Trevor Etienne",
+    "team":"CAR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":56,
+    "bye":14
+  },
+  {
+    "name":"Noah Brown",
+    "team":"WAS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":55,
+    "bye":12
+  },
+  {
+    "name":"Braelon Allen",
+    "team":"NYJ",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":55,
+    "bye":9
+  },
+  {
+    "name":"Jarquez Hunter",
+    "team":"LAR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":55,
+    "bye":8
+  },
+  {
+    "name":"Ja'Tavion Sanders",
+    "team":"CAR",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":55,
+    "bye":14
+  },
+  {
+    "name":"Nick Westbrook-Ikhine",
+    "team":"MIA",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":55,
+    "bye":12
+  },
+  {
+    "name":"Devaughn Vele",
+    "team":"DEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":54,
+    "bye":12
+  },
+  {
+    "name":"Brandin Cooks",
+    "team":"NO",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":54,
+    "bye":11
+  },
+  {
+    "name":"Malik Washington",
+    "team":"MIA",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":54,
+    "bye":12
+  },
+  {
+    "name":"Kenny Pickett",
+    "team":"CLE",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":54,
+    "bye":9
+  },
+  {
+    "name":"Samaje Perine",
+    "team":"CIN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":53,
+    "bye":10
+  },
+  {
+    "name":"Will Dissly",
+    "team":"LAC",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":53,
+    "bye":12
+  },
+  {
+    "name":"Noah Fant",
+    "team":"SEA",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":53,
+    "bye":8
+  },
+  {
+    "name":"Raheem Mostert",
+    "team":"LVR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":53,
+    "bye":8
+  },
+  {
+    "name":"Allen Lazard",
+    "team":"NYJ",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":53,
+    "bye":9
+  },
+  {
+    "name":"Jo'Quavious Marks",
+    "team":"HOU",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":53,
+    "bye":6
+  },
+  {
+    "name":"Will Shipley",
+    "team":"PHI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":52,
+    "bye":9
+  },
+  {
+    "name":"Van Jefferson",
+    "team":"TEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":52,
+    "bye":10
+  },
+  {
+    "name":"Terrance Ferguson",
+    "team":"LAR",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":52,
+    "bye":8
+  },
+  {
+    "name":"Parker Washington",
+    "team":"JAC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":51,
+    "bye":8
+  },
+  {
+    "name":"Zack Moss",
+    "team":"CIN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":51,
+    "bye":10
+  },
+  {
+    "name":"Antonio Gibson",
+    "team":"NE",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":50,
+    "bye":14
+  },
+  {
+    "name":"Kenneth Gainwell",
+    "team":"PIT",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":50,
+    "bye":5
+  },
+  {
+    "name":"Kendrick Bourne",
+    "team":"NE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":50,
+    "bye":14
+  },
+  {
+    "name":"Nick Chubb",
+    "team":"HOU",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":50,
+    "bye":6
+  },
+  {
+    "name":"Tai Felton",
+    "team":"MIN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":50,
+    "bye":6
+  },
+  {
+    "name":"Noah Gray",
+    "team":"KC",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":50,
+    "bye":10
+  },
+  {
+    "name":"DJ Giddens",
+    "team":"IND",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":49,
+    "bye":11
+  },
+  {
+    "name":"Jalen Tolbert",
+    "team":"DAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":49,
+    "bye":10
+  },
+  {
+    "name":"Elic Ayomanor",
+    "team":"TEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":48,
+    "bye":10
+  },
+  {
+    "name":"Tahj Brooks",
+    "team":"CIN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":48,
+    "bye":10
+  },
+  {
+    "name":"Treylon Burks",
+    "team":"TEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":48,
+    "bye":10
+  },
+  {
+    "name":"Devin Singletary",
+    "team":"NYG",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":48,
+    "bye":14
+  },
+  {
+    "name":"Ollie Gordon II",
+    "team":"MIA",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":48,
+    "bye":12
+  },
+  {
+    "name":"Tyler Higbee",
+    "team":"LAR",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":47,
+    "bye":8
+  },
+  {
+    "name":"Ty Johnson",
+    "team":"BUF",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":47,
+    "bye":7
+  },
+  {
+    "name":"Jordan James",
+    "team":"SF",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":47,
+    "bye":14
+  },
+  {
+    "name":"Kalif Raymond",
+    "team":"DET",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":46,
+    "bye":8
+  },
+  {
+    "name":"Adonai Mitchell",
+    "team":"IND",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":46,
+    "bye":11
+  },
+  {
+    "name":"Spencer Rattler",
+    "team":"NO",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":44,
+    "bye":11
+  },
+  {
+    "name":"Emanuel Wilson",
+    "team":"GB",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":44,
+    "bye":5
+  },
+  {
+    "name":"Harold Fannin Jr.",
+    "team":"CLE",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":43,
+    "bye":9
+  },
+  {
+    "name":"Chimere Dike",
+    "team":"TEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":43,
+    "bye":10
+  },
+  {
+    "name":"Savion Williams",
+    "team":"GB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":43,
+    "bye":5
+  },
+  {
+    "name":"Isaac TeSlaa",
+    "team":"DET",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":43,
+    "bye":8
+  },
+  {
+    "name":"Alexander Mattison",
+    "team":"MIA",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":43,
+    "bye":12
+  },
+  {
+    "name":"Devin Neal",
+    "team":"NO",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":42,
+    "bye":11
+  },
+  {
+    "name":"Foster Moreau",
+    "team":"NO",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":42,
+    "bye":11
+  },
+  {
+    "name":"Greg Dortch",
+    "team":"ARI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":42,
+    "bye":8
+  },
+  {
+    "name":"Isaiah Davis",
+    "team":"NYJ",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":42,
+    "bye":9
+  },
+  {
+    "name":"Tory Horton",
+    "team":"SEA",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":42,
+    "bye":8
+  },
+  {
+    "name":"Michael Gallup",
+    "team":"WAS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":42,
+    "bye":12
+  },
+  {
+    "name":"Sean Tucker",
+    "team":"TB",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":42,
+    "bye":9
+  },
+  {
+    "name":"Austin Hooper",
+    "team":"NE",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":41,
+    "bye":14
+  },
+  {
+    "name":"Luke McCaffrey",
+    "team":"WAS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":41,
+    "bye":12
+  },
+  {
+    "name":"Jaleel McLaughlin",
+    "team":"DEN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":41,
+    "bye":12
+  },
+  {
+    "name":"Tyler Boyd",
+    "team":"UNS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":40,
+    "bye":18
+  },
+  {
+    "name":"Michael Mayer",
+    "team":"LVR",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":40,
+    "bye":8
+  },
+  {
+    "name":"Cam Akers",
+    "team":"NO",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":40,
+    "bye":11
+  },
+  {
+    "name":"Nelson Agholor",
+    "team":"UNS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":40,
+    "bye":18
+  },
+  {
+    "name":"Christian Watson",
+    "team":"GB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":39,
+    "bye":5
+  },
+  {
+    "name":"Tre Tucker",
+    "team":"LVR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":39,
+    "bye":8
+  },
+  {
+    "name":"Emari Demercado",
+    "team":"ARI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":38,
+    "bye":8
+  },
+  {
+    "name":"Demarcus Robinson",
+    "team":"SF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":38,
+    "bye":14
+  },
+  {
+    "name":"Jonathan Mingo",
+    "team":"DAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":38,
+    "bye":10
+  },
+  {
+    "name":"Khalil Herbert",
+    "team":"IND",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":38,
+    "bye":11
+  },
+  {
+    "name":"Kyle Monangai",
+    "team":"CHI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":37,
+    "bye":5
+  },
+  {
+    "name":"Tyler Conklin",
+    "team":"LAC",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":36,
+    "bye":12
+  },
+  {
+    "name":"A.J. Dillon",
+    "team":"PHI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":36,
+    "bye":9
+  },
+  {
+    "name":"Darnell Washington",
+    "team":"PIT",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":36,
+    "bye":5
+  },
+  {
+    "name":"Robert Woods",
+    "team":"PIT",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":36,
+    "bye":5
+  },
+  {
+    "name":"Cade Stover",
+    "team":"HOU",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":35,
+    "bye":6
+  },
+  {
+    "name":"Brashard Smith",
+    "team":"KC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":35,
+    "bye":10
+  },
+  {
+    "name":"Phil Mafah",
+    "team":"DAL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":35,
+    "bye":10
+  },
+  {
+    "name":"Jalen Royals",
+    "team":"KC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":34,
+    "bye":10
+  },
+  {
+    "name":"Arian Smith",
+    "team":"NYJ",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":34,
+    "bye":9
+  },
+  {
+    "name":"JuJu Smith-Schuster",
+    "team":"KC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":34,
+    "bye":10
+  },
+  {
+    "name":"Audric Estime",
+    "team":"DEN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":34,
+    "bye":12
+  },
+  {
+    "name":"Elijah Moore",
+    "team":"BUF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":34,
+    "bye":7
+  },
+  {
+    "name":"Jeremy McNichols",
+    "team":"WAS",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":33,
+    "bye":12
+  },
+  {
+    "name":"Clyde Edwards-Helaire",
+    "team":"NO",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":33,
+    "bye":11
+  },
+  {
+    "name":"Hunter Renfrow",
+    "team":"CAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":32,
+    "bye":14
+  },
+  {
+    "name":"Oronde Gadsden II",
+    "team":"LAC",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":32,
+    "bye":12
+  },
+  {
+    "name":"Gerald Everett",
+    "team":"UNS",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":32,
+    "bye":18
+  },
+  {
+    "name":"Dawson Knox",
+    "team":"BUF",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":32,
+    "bye":7
+  },
+  {
+    "name":"Derius Davis",
+    "team":"LAC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":32,
+    "bye":12
+  },
+  {
+    "name":"Malachi Corley",
+    "team":"NYJ",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":31,
+    "bye":9
+  },
+  {
+    "name":"Ja'Lynn Polk",
+    "team":"NE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":31,
+    "bye":14
+  },
+  {
+    "name":"Keaton Mitchell",
+    "team":"BAL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":31,
+    "bye":7
+  },
+  {
+    "name":"Jermaine Burton",
+    "team":"CIN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":31,
+    "bye":10
+  },
+  {
+    "name":"Jacory Croskey-Merritt",
+    "team":"WAS",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":31,
+    "bye":12
+  },
+  {
+    "name":"Zay Jones",
+    "team":"ARI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":30,
+    "bye":8
+  },
+  {
+    "name":"Deshaun Watson",
+    "team":"CLE",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":30,
+    "bye":9
+  },
+  {
+    "name":"Chris Rodriguez",
+    "team":"WAS",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":30,
+    "bye":12
+  },
+  {
+    "name":"Luke Musgrave",
+    "team":"GB",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":29,
+    "bye":5
+  },
+  {
+    "name":"Javon Baker",
+    "team":"NE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":29,
+    "bye":14
+  },
+  {
+    "name":"Gunnar Helm",
+    "team":"TEN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":29,
+    "bye":10
+  },
+  {
+    "name":"Rondale Moore",
+    "team":"MIN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":28,
+    "bye":6
+  },
+  {
+    "name":"Olamide Zaccheaus",
+    "team":"CHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":27,
+    "bye":5
+  },
+  {
+    "name":"Cordarrelle Patterson",
+    "team":"PIT",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":27,
+    "bye":5
+  },
+  {
+    "name":"Drew Sample",
+    "team":"CIN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":27,
+    "bye":10
+  },
+  {
+    "name":"Isaiah Bond",
+    "team":"RK",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/RK.svg",
+    "projectedPoints":27,
+    "bye":18
+  },
+  {
+    "name":"John Metchie",
+    "team":"HOU",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":26,
+    "bye":6
+  },
+  {
+    "name":"Christopher Brooks",
+    "team":"GB",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":26,
+    "bye":5
+  },
+  {
+    "name":"Sterling Shepard",
+    "team":"TB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":26,
+    "bye":9
+  },
+  {
+    "name":"Jahan Dotson",
+    "team":"PHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":25,
+    "bye":9
+  },
+  {
+    "name":"AJ Barner",
+    "team":"SEA",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":25,
+    "bye":8
+  },
+  {
+    "name":"Tommy Tremble",
+    "team":"CAR",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":25,
+    "bye":14
+  },
+  {
+    "name":"Devontez Walker",
+    "team":"BAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":25,
+    "bye":7
+  },
+  {
+    "name":"Luke Schoonmaker",
+    "team":"DAL",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":25,
+    "bye":10
+  },
+  {
+    "name":"Ty Chandler",
+    "team":"MIN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":24,
+    "bye":6
+  },
+  {
+    "name":"Jalin Hyatt",
+    "team":"NYG",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":24,
+    "bye":14
+  },
+  {
+    "name":"Elijah Higgins",
+    "team":"ARI",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":24,
+    "bye":8
+  },
+  {
+    "name":"KeAndre Lambert-Smith",
+    "team":"LAC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":24,
+    "bye":12
+  },
+  {
+    "name":"Greg Joseph",
+    "team":"SF",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":24,
+    "bye":14
+  },
+  {
+    "name":"Michael Carter",
+    "team":"ARI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":24,
+    "bye":8
+  },
+  {
+    "name":"Dameon Pierce",
+    "team":"HOU",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":23,
+    "bye":6
+  },
+  {
+    "name":"Brevin Jordan",
+    "team":"HOU",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":23,
+    "bye":6
+  },
+  {
+    "name":"Mitchell Evans",
+    "team":"CAR",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":23,
+    "bye":14
+  },
+  {
+    "name":"Jaylin Lane",
+    "team":"WAS",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":23,
+    "bye":12
+  },
+  {
+    "name":"LeQuint Allen",
+    "team":"JAC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":23,
+    "bye":8
+  },
+  {
+    "name":"Tez Johnson",
+    "team":"TB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":23,
+    "bye":9
+  },
+  {
+    "name":"Josh Whyle",
+    "team":"TEN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":22,
+    "bye":10
+  },
+  {
+    "name":"Ben Sinnott",
+    "team":"WAS",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":22,
+    "bye":12
+  },
+  {
+    "name":"Lucas Krull",
+    "team":"DEN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":22,
+    "bye":12
+  },
+  {
+    "name":"Stone Smartt",
+    "team":"NYJ",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":22,
+    "bye":9
+  },
+  {
+    "name":"Kalel Mullings",
+    "team":"TEN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":22,
+    "bye":10
+  },
+  {
+    "name":"Damien Martinez",
+    "team":"SEA",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":22,
+    "bye":8
+  },
+  {
+    "name":"Pierre Strong Jr.",
+    "team":"CLE",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":21,
+    "bye":9
+  },
+  {
+    "name":"Craig Reynolds",
+    "team":"DET",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":21,
+    "bye":8
+  },
+  {
+    "name":"Sincere McCormick",
+    "team":"LVR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":21,
+    "bye":8
+  },
+  {
+    "name":"Justin Watson",
+    "team":"HOU",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":21,
+    "bye":6
+  },
+  {
+    "name":"Ricky White",
+    "team":"SEA",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":21,
+    "bye":8
+  },
+  {
+    "name":"Greg Dulcich",
+    "team":"NYG",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":21,
+    "bye":14
+  },
+  {
+    "name":"Cedrick Wilson",
+    "team":"NO",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":20,
+    "bye":11
+  },
+  {
+    "name":"Mason Tipton",
+    "team":"NO",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":20,
+    "bye":11
+  },
+  {
+    "name":"Kevin Austin Jr.",
+    "team":"NO",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":20,
+    "bye":11
+  },
+  {
+    "name":"Jordan Watkins",
+    "team":"SF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":20,
+    "bye":14
+  },
+  {
+    "name":"Tanner McLachlan",
+    "team":"CIN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":20,
+    "bye":10
+  },
+  {
+    "name":"Jamaal Williams",
+    "team":"UNS",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":20,
+    "bye":18
+  },
+  {
+    "name":"Bub Means",
+    "team":"NO",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":20,
+    "bye":11
+  },
+  {
+    "name":"Johnny Mundt",
+    "team":"JAC",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/JAC.svg",
+    "projectedPoints":19,
+    "bye":8
+  },
+  {
+    "name":"Mecole Hardman",
+    "team":"GB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":19,
+    "bye":5
+  },
+  {
+    "name":"Mo Alie-Cox",
+    "team":"IND",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":19,
+    "bye":11
+  },
+  {
+    "name":"KhaDarel Hodge",
+    "team":"ATL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":19,
+    "bye":5
+  },
+  {
+    "name":"David Bell",
+    "team":"CLE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":19,
+    "bye":9
+  },
+  {
+    "name":"Jake Bobo",
+    "team":"SEA",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":19,
+    "bye":8
+  },
+  {
+    "name":"Grant Calcaterra",
+    "team":"PHI",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":18,
+    "bye":9
+  },
+  {
+    "name":"Adam Trautman",
+    "team":"DEN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":18,
+    "bye":12
+  },
+  {
+    "name":"Jalen Milroe",
+    "team":"SEA",
+    "position":"QB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":18,
+    "bye":8
+  },
+  {
+    "name":"Brock Wright",
+    "team":"DET",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":18,
+    "bye":8
+  },
+  {
+    "name":"Xavier Restrepo",
+    "team":"TEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":18,
+    "bye":10
+  },
+  {
+    "name":"Zamir White",
+    "team":"LVR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":18,
+    "bye":8
+  },
+  {
+    "name":"Josh Oliver",
+    "team":"MIN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":17,
+    "bye":6
+  },
+  {
+    "name":"Kimani Vidal",
+    "team":"LAC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":17,
+    "bye":12
+  },
+  {
+    "name":"Julian Hill",
+    "team":"MIA",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIA.svg",
+    "projectedPoints":17,
+    "bye":12
+  },
+  {
+    "name":"Jeremy Ruckert",
+    "team":"NYJ",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":17,
+    "bye":9
+  },
+  {
+    "name":"Marcus Yarns",
+    "team":"NO",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":16,
+    "bye":11
+  },
+  {
+    "name":"Jacob Cowing",
+    "team":"SF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":16,
+    "bye":14
+  },
+  {
+    "name":"Devin Duvernay",
+    "team":"CHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":16,
+    "bye":5
+  },
+  {
+    "name":"Raheim Sanders",
+    "team":"LAC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":15,
+    "bye":12
+  },
+  {
+    "name":"Jamari Thrash",
+    "team":"CLE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":15,
+    "bye":9
+  },
+  {
+    "name":"Nick Nash",
+    "team":"ATL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":15,
+    "bye":5
+  },
+  {
+    "name":"Kenny McIntosh",
+    "team":"SEA",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":15,
+    "bye":8
+  },
+  {
+    "name":"Kylen Granson",
+    "team":"PHI",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":15,
+    "bye":9
+  },
+  {
+    "name":"Casey Washington",
+    "team":"ATL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":15,
+    "bye":5
+  },
+  {
+    "name":"DJ Turner",
+    "team":"LVR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":15,
+    "bye":8
+  },
+  {
+    "name":"Harrison Bryant",
+    "team":"PHI",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":15,
+    "bye":9
+  },
+  {
+    "name":"Jelani Woods",
+    "team":"IND",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":15,
+    "bye":11
+  },
+  {
+    "name":"Johnny Wilson",
+    "team":"PHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":14,
+    "bye":9
+  },
+  {
+    "name":"Jimmy Horn Jr.",
+    "team":"CAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":14,
+    "bye":14
+  },
+  {
+    "name":"Charlie Kolar",
+    "team":"BAL",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":14,
+    "bye":7
+  },
+  {
+    "name":"Daniel Bellinger",
+    "team":"NYG",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":14,
+    "bye":14
+  },
+  {
+    "name":"Colby Parkinson",
+    "team":"LAR",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":14,
+    "bye":8
+  },
+  {
+    "name":"John Bates",
+    "team":"WAS",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/WAS.svg",
+    "projectedPoints":13,
+    "bye":12
+  },
+  {
+    "name":"Devin Culp",
+    "team":"TB",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":13,
+    "bye":9
+  },
+  {
+    "name":"Bo Melton",
+    "team":"GB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":13,
+    "bye":5
+  },
+  {
+    "name":"Rakim Jarrett",
+    "team":"TB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":13,
+    "bye":9
+  },
+  {
+    "name":"Charlie Jones",
+    "team":"CIN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CIN.svg",
+    "projectedPoints":13,
+    "bye":10
+  },
+  {
+    "name":"Jalen Brooks",
+    "team":"DAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":13,
+    "bye":10
+  },
+  {
+    "name":"Ashton Dulin",
+    "team":"IND",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":13,
+    "bye":11
+  },
+  {
+    "name":"Davis Allen",
+    "team":"LAR",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":13,
+    "bye":8
+  },
+  {
+    "name":"Caleb Lohner",
+    "team":"DEN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":13,
+    "bye":12
+  },
+  {
+    "name":"Tyler Goodson",
+    "team":"IND",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":13,
+    "bye":11
+  },
+  {
+    "name":"Jackson Hawes",
+    "team":"BUF",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":12,
+    "bye":7
+  },
+  {
+    "name":"Jordan Mims",
+    "team":"NO",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":12,
+    "bye":11
+  },
+  {
+    "name":"Charlie Woerner",
+    "team":"ATL",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":12,
+    "bye":5
+  },
+  {
+    "name":"Trey Palmer",
+    "team":"TB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":12,
+    "bye":9
+  },
+  {
+    "name":"Kobe Hudson",
+    "team":"CAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CAR.svg",
+    "projectedPoints":12,
+    "bye":14
+  },
+  {
+    "name":"Malik Heath",
+    "team":"GB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/GB.svg",
+    "projectedPoints":12,
+    "bye":5
+  },
+  {
+    "name":"Xavier Gipson",
+    "team":"NYJ",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":12,
+    "bye":9
+  },
+  {
+    "name":"Ryan Flournoy",
+    "team":"DAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":12,
+    "bye":10
+  },
+  {
+    "name":"Dominic Lovett",
+    "team":"DET",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DET.svg",
+    "projectedPoints":12,
+    "bye":8
+  },
+  {
+    "name":"Luke Lachey",
+    "team":"HOU",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":12,
+    "bye":6
+  },
+  {
+    "name":"Tyler Johnson",
+    "team":"NYJ",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":12,
+    "bye":9
+  },
+  {
+    "name":"Michael Woods II",
+    "team":"CLE",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CLE.svg",
+    "projectedPoints":11,
+    "bye":9
+  },
+  {
+    "name":"Ryan Miller",
+    "team":"TB",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":11,
+    "bye":9
+  },
+  {
+    "name":"Tip Reiman",
+    "team":"ARI",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":11,
+    "bye":8
+  },
+  {
+    "name":"Elijhah Badger",
+    "team":"KC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":11,
+    "bye":10
+  },
+  {
+    "name":"Tyler Scott",
+    "team":"CHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":11,
+    "bye":5
+  },
+  {
+    "name":"Nathaniel Dell",
+    "team":"HOU",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":11,
+    "bye":6
+  },
+  {
+    "name":"Joshua Simon",
+    "team":"ATL",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":11,
+    "bye":5
+  },
+  {
+    "name":"LaJohntay Wester",
+    "team":"BAL",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BAL.svg",
+    "projectedPoints":11,
+    "bye":7
+  },
+  {
+    "name":"Malik Davis",
+    "team":"DAL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":11,
+    "bye":10
+  },
+  {
+    "name":"Kaden Prather",
+    "team":"BUF",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/BUF.svg",
+    "projectedPoints":11,
+    "bye":7
+  },
+  {
+    "name":"Hassan Haskins",
+    "team":"LAC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAC.svg",
+    "projectedPoints":11,
+    "bye":12
+  },
+  {
+    "name":"Deuce Vaughn",
+    "team":"DAL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":11,
+    "bye":10
+  },
+  {
+    "name":"Blake Watson",
+    "team":"DEN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":11,
+    "bye":12
+  },
+  {
+    "name":"Nate Adkins",
+    "team":"DEN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":11,
+    "bye":12
+  },
+  {
+    "name":"Jared Wiley",
+    "team":"KC",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":10,
+    "bye":10
+  },
+  {
+    "name":"DeeJay Dallas",
+    "team":"ARI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ARI.svg",
+    "projectedPoints":10,
+    "bye":8
+  },
+  {
+    "name":"Jake Briningstool",
+    "team":"KC",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":10,
+    "bye":10
+  },
+  {
+    "name":"Tyler Badie",
+    "team":"DEN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DEN.svg",
+    "projectedPoints":10,
+    "bye":12
+  },
+  {
+    "name":"Andrew Ogletree",
+    "team":"IND",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":10,
+    "bye":11
+  },
+  {
+    "name":"Braxton Berrios",
+    "team":"HOU",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":10,
+    "bye":6
+  },
+  {
+    "name":"Xavier Hutchinson",
+    "team":"HOU",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/HOU.svg",
+    "projectedPoints":10,
+    "bye":6
+  },
+  {
+    "name":"Will Mallory",
+    "team":"IND",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":9,
+    "bye":11
+  },
+  {
+    "name":"Carson Steele",
+    "team":"KC",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":9,
+    "bye":10
+  },
+  {
+    "name":"Antwane Wells Jr.",
+    "team":"NYG",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":9,
+    "bye":14
+  },
+  {
+    "name":"Konata Mumpfield",
+    "team":"LAR",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LAR.svg",
+    "projectedPoints":9,
+    "bye":8
+  },
+  {
+    "name":"Bryce Oliver",
+    "team":"TEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":9,
+    "bye":10
+  },
+  {
+    "name":"Payne Durham",
+    "team":"TB",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TB.svg",
+    "projectedPoints":9,
+    "bye":9
+  },
+  {
+    "name":"Jaheim Bell",
+    "team":"NE",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":9,
+    "bye":14
+  },
+  {
+    "name":"Skyy Moore",
+    "team":"KC",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/KC.svg",
+    "projectedPoints":9,
+    "bye":10
+  },
+  {
+    "name":"Brevyn Spann-Ford",
+    "team":"DAL",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/DAL.svg",
+    "projectedPoints":9,
+    "bye":10
+  },
+  {
+    "name":"Jha'Quan Jackson",
+    "team":"TEN",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":9,
+    "bye":10
+  },
+  {
+    "name":"Dallin Holker",
+    "team":"NO",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":9,
+    "bye":11
+  },
+  {
+    "name":"Montrell Johnson Jr.",
+    "team":"PHI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":8,
+    "bye":9
+  },
+  {
+    "name":"Robbie Ouzts",
+    "team":"SEA",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SEA.svg",
+    "projectedPoints":8,
+    "bye":8
+  },
+  {
+    "name":"Gavin Bartholomew",
+    "team":"MIN",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/MIN.svg",
+    "projectedPoints":8,
+    "bye":6
+  },
+  {
+    "name":"Anthony Gould",
+    "team":"IND",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/IND.svg",
+    "projectedPoints":8,
+    "bye":11
+  },
+  {
+    "name":"Thomas Fidone II",
+    "team":"NYG",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":8,
+    "bye":14
+  },
+  {
+    "name":"Moliki Matavao",
+    "team":"NO",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NO.svg",
+    "projectedPoints":8,
+    "bye":11
+  },
+  {
+    "name":"Durham Smythe",
+    "team":"CHI",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/CHI.svg",
+    "projectedPoints":8,
+    "bye":5
+  },
+  {
+    "name":"Dylan Laube",
+    "team":"LVR",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/LVR.svg",
+    "projectedPoints":8,
+    "bye":8
+  },
+  {
+    "name":"Ainias Smith",
+    "team":"PHI",
+    "position":"WR",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":8,
+    "bye":9
+  },
+  {
+    "name":"Donovan Edwards",
+    "team":"NYJ",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYJ.svg",
+    "projectedPoints":8,
+    "bye":9
+  },
+  {
+    "name":"Israel Abanikanda",
+    "team":"SF",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/SF.svg",
+    "projectedPoints":7,
+    "bye":14
+  },
+  {
+    "name":"Jase McClellan",
+    "team":"ATL",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/ATL.svg",
+    "projectedPoints":7,
+    "bye":5
+  },
+  {
+    "name":"Connor Heyward",
+    "team":"PIT",
+    "position":"TE",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":7,
+    "bye":5
+  },
+  {
+    "name":"Julius Chestnut",
+    "team":"TEN",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/TEN.svg",
+    "projectedPoints":6,
+    "bye":10
+  },
+  {
+    "name":"Eric Gray",
+    "team":"NYG",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NYG.svg",
+    "projectedPoints":6,
+    "bye":14
+  },
+  {
+    "name":"Keilan Robinson",
+    "team":"PHI",
+    "position":"RB",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PHI.svg",
+    "projectedPoints":6,
+    "bye":9
+  },
+  {
+    "name":"Ben Sauls",
+    "team":"PIT",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/PIT.svg",
+    "projectedPoints":5,
+    "bye":5
+  },
+  {
+    "name":"John Parker Romo",
+    "team":"NE",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/NE.svg",
+    "projectedPoints":2,
+    "bye":14
+  },
+  {
+    "name":"Greg Zuerlein",
+    "team":"UNS",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":0,
+    "bye":18
+  },
+  {
+    "name":"Justin Tucker",
+    "team":"UNS",
+    "position":"K",
+    "avatarUrl":"https:\/\/www.draftsharks.com\/img\/icons\/teams\/UNS.svg",
+    "projectedPoints":0,
+    "bye":18
+  }
+]

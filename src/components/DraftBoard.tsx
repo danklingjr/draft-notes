@@ -7,6 +7,7 @@ import { getFantasyPoints, formatPoints } from '../services/fantasyPointsService
 interface PlayerWithPoints extends NFLPlayer {
   lastSeasonPoints?: number;
   projectedPoints?: number;
+  projectedFantasyPoints2025?: number;
 }
 
 interface PlayerNote {
@@ -67,8 +68,8 @@ const DraftBoard: React.FC = () => {
 
           // Sort players by projected points (if available) or overall rank
           const sortedPlayers = [...playersWithPoints].sort((a, b) => {
-            if (a.projectedPoints && b.projectedPoints) {
-              return b.projectedPoints - a.projectedPoints;
+            if (a.projectedFantasyPoints2025 && b.projectedFantasyPoints2025) {
+              return b.projectedFantasyPoints2025 - a.projectedFantasyPoints2025;
             }
             return getPlayerSortValue(a) - getPlayerSortValue(b);
           });
@@ -171,7 +172,6 @@ const DraftBoard: React.FC = () => {
               <th className="text-left py-3 px-4 font-medium">PLAYER</th>
               <th className="text-left p-3 font-medium">POS</th>
               <th className="text-left p-3 font-medium">BYE</th>
-              <th className="text-left p-3 font-medium">2024</th>
               <th className="text-left p-3 font-medium">PROJ</th>
               <th className="text-left p-3 font-medium w-64">NOTES</th>
               <th className="text-right py-3 px-4 font-medium">DRAFT</th>
@@ -193,8 +193,7 @@ const DraftBoard: React.FC = () => {
                 </td>
                 <td className="p-3 text-sm text-gray-900">{player.position}</td>
                 <td className="p-3 text-sm text-gray-900">{player.byeWeek || '-'}</td>
-                <td className="p-3 text-sm text-gray-900">{formatPoints(player.lastSeasonPoints)}</td>
-                <td className="p-3 text-sm text-gray-900">{formatPoints(player.projectedPoints)}</td>
+                <td className="p-3 text-sm text-gray-900">{formatPoints(player.projectedFantasyPoints2025)}</td>
                 <td className="p-3 w-auto">
                   <textarea
                     value={playerNotes[player.id] || ''}

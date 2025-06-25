@@ -21,6 +21,9 @@ export interface NFLPlayer {
   overallRank?: number;
   hasActualADP?: boolean;
   byeWeek?: number;
+  projectedFantasyPoints2025?: number;
+  avatarUrl?: string;
+  avatarFallback?: string;
 }
 
 interface NFLTeam {
@@ -40,32 +43,65 @@ export interface NFLData {
   players: NFLPlayer[];
 }
 
+interface FantasyProsPlayer {
+  overallRank: number;
+  positionRank: number;
+  team: string;
+  position: string;
+  byeWeek: number;
+  projectedFantasyPoints2025: number;
+  avatarUrl?: string;
+  avatarFallback: string;
+}
+
 export async function getNFLPlayers(): Promise<NFLPlayer[]> {
   try {
-    console.log('Attempting to fetch NFL players data...');
-    const response = await fetch('/data/nflPlayers.json');
+    console.log('Attempting to fetch FantasyPros rankings data...');
+    const response = await fetch('/data/fantasyProsRankings.json');
     
     if (!response.ok) {
-      console.error('Failed to fetch NFL players:', response.status, response.statusText);
+      console.error('Failed to fetch FantasyPros rankings:', response.status, response.statusText);
       throw new Error(`HTTP error! status: ${response.status}`);
     }
     
-    const cacheData = await response.json() as NFLData;
-    console.log('Received data:', cacheData);
+    const fantasyProsData = await response.json() as Record<string, FantasyProsPlayer>;
+    console.log('Received FantasyPros data:', fantasyProsData);
     
-    if (!cacheData || !cacheData.players || !Array.isArray(cacheData.players)) {
-      console.error('Invalid cache data format:', cacheData);
+    if (!fantasyProsData || typeof fantasyProsData !== 'object') {
+      console.error('Invalid FantasyPros data format:', fantasyProsData);
       throw new Error('Invalid data format received');
     }
 
-    console.log(`Successfully loaded ${cacheData.players.length} players`);
-    return cacheData.players;
+    // Transform FantasyPros data to NFLPlayer format
+    const players: NFLPlayer[] = Object.entries(fantasyProsData).map(([name, playerData]) => {
+      const [firstName, ...lastNameParts] = name.split(' ');
+      const lastName = lastNameParts.join(' ');
+      
+      return {
+        id: `${name}-${playerData.team}-${playerData.position}`.replace(/\s+/g, '-').toLowerCase(),
+        firstName,
+        lastName,
+        fullName: name,
+        position: playerData.position,
+        team: playerData.team,
+        overallRank: playerData.overallRank,
+        positionRank: playerData.positionRank,
+        byeWeek: playerData.byeWeek,
+        projectedFantasyPoints2025: playerData.projectedFantasyPoints2025,
+        avatarUrl: playerData.avatarUrl,
+        avatarFallback: playerData.avatarFallback,
+        status: 'active'
+      };
+    });
+
+    console.log(`Successfully loaded ${players.length} players from FantasyPros rankings`);
+    return players;
   } catch (error) {
-    console.error('Error loading NFL player data:', error);
+    console.error('Error loading FantasyPros player data:', error);
     throw error;
   }
 }
 
 export const getPlayerImage = (player: NFLPlayer): string => {
-  return player.photoUrl || 'https://via.placeholder.com/150?text=No+Image';
+  return player.avatarUrl || player.photoUrl || 'https://via.placeholder.com/150?text=No+Image';
 }; 

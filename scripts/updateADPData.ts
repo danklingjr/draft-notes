@@ -108,97 +108,11 @@ function normalizeTeamName(team: string): string {
 
 async function fetchFantasyProsADP(): Promise<ADPData[]> {
   try {
-    console.log('Using mock ADP data for testing...');
-    const positions = ['QB', 'RB', 'WR', 'TE'];
-    const mockPlayers: ADPData[] = [];
-    let overallRank = 1;
-
-    // Generate mock ADP data for each position
-    positions.forEach(position => {
-      const playersPerPosition = position === 'QB' ? 32 : position === 'TE' ? 24 : 50;
-      for (let i = 1; i <= playersPerPosition; i++) {
-        // Add some variance to ADP
-        const variance = Math.random() * 5 - 2.5; // Random number between -2.5 and 2.5
-        const adp = overallRank + variance;
-
-        // Top players from each position
-        let name = '';
-        let team = '';
-        
-        if (position === 'QB') {
-          const qbs = [
-            ['Patrick Mahomes', 'Kansas City Chiefs'],
-            ['Josh Allen', 'Buffalo Bills'],
-            ['Jalen Hurts', 'Philadelphia Eagles'],
-            ['Lamar Jackson', 'Baltimore Ravens'],
-            ['Justin Herbert', 'Los Angeles Chargers'],
-            ['Joe Burrow', 'Cincinnati Bengals'],
-            ['Trevor Lawrence', 'Jacksonville Jaguars'],
-            ['Justin Fields', 'New York Jets'],
-            ['Dak Prescott', 'Dallas Cowboys'],
-            ['Tua Tagovailoa', 'Miami Dolphins']
-          ];
-          [name, team] = i <= qbs.length ? qbs[i - 1] : [`QB${i}`, 'Team'];
-        } else if (position === 'RB') {
-          const rbs = [
-            ['Christian McCaffrey', 'San Francisco 49ers'],
-            ['Bijan Robinson', 'Atlanta Falcons'],
-            ['Breece Hall', 'New York Jets'],
-            ['Saquon Barkley', 'Philadelphia Eagles'],
-            ['Tony Pollard', 'Tennessee Titans'],
-            ['Travis Etienne Jr.', 'Jacksonville Jaguars'],
-            ['Jahmyr Gibbs', 'Detroit Lions'],
-            ['Josh Jacobs', 'Green Bay Packers'],
-            ['Kenneth Walker III', 'Seattle Seahawks'],
-            ['Rachaad White', 'Tampa Bay Buccaneers']
-          ];
-          [name, team] = i <= rbs.length ? rbs[i - 1] : [`RB${i}`, 'Team'];
-        } else if (position === 'WR') {
-          const wrs = [
-            ['Justin Jefferson', 'Minnesota Vikings'],
-            ['Ja\'Marr Chase', 'Cincinnati Bengals'],
-            ['Tyreek Hill', 'Miami Dolphins'],
-            ['CeeDee Lamb', 'Dallas Cowboys'],
-            ['A.J. Brown', 'Philadelphia Eagles'],
-            ['Stefon Diggs', 'New England Patriots'],
-            ['Davante Adams', 'Los Angeles Rams'],
-            ['Cooper Kupp', 'Seattle Seahawks'],
-            ['Garrett Wilson', 'New York Jets'],
-            ['DeVonta Smith', 'Philadelphia Eagles']
-          ];
-          [name, team] = i <= wrs.length ? wrs[i - 1] : [`WR${i}`, 'Team'];
-        } else {
-          const tes = [
-            ['Travis Kelce', 'Kansas City Chiefs'],
-            ['Mark Andrews', 'Baltimore Ravens'],
-            ['T.J. Hockenson', 'Minnesota Vikings'],
-            ['Dallas Goedert', 'Philadelphia Eagles'],
-            ['George Kittle', 'San Francisco 49ers'],
-            ['Kyle Pitts', 'Atlanta Falcons'],
-            ['David Njoku', 'Cleveland Browns'],
-            ['Dalton Schultz', 'Houston Texans'],
-            ['Pat Freiermuth', 'Pittsburgh Steelers'],
-            ['Cole Kmet', 'Chicago Bears']
-          ];
-          [name, team] = i <= tes.length ? tes[i - 1] : [`TE${i}`, 'Team'];
-        }
-
-        mockPlayers.push({
-          name,
-          team,
-          position,
-          adp,
-          positionRank: i,
-          overallRank
-        });
-        overallRank++;
-      }
-    });
-
-    console.log(`Created ${mockPlayers.length} mock players with ADP data`);
-    return mockPlayers;
+    // TODO: Implement real API call to FantasyPros
+    console.log('Fetching real ADP data...');
+    return [];
   } catch (error) {
-    console.error('Error creating mock ADP data:', error);
+    console.error('Error fetching ADP data:', error);
     return [];
   }
 }

@@ -3,6 +3,7 @@ import { NFLPlayer, getNFLPlayers } from '../services/nflService';
 import { useDraft } from '../context/DraftContext';
 import PlayerAvatar from './PlayerAvatar';
 import { getFantasyPoints, formatPoints } from '../services/fantasyPointsService';
+import { savePlayerNotes, loadPlayerNotes } from '../services/notesPersistenceService';
 
 interface PlayerWithPoints extends NFLPlayer {
   lastSeasonPoints?: number;
@@ -15,6 +16,10 @@ interface PlayerNote {
   note: string;
 }
 
+interface PlayerNotes {
+  [playerId: string]: string;
+}
+
 const DraftBoard: React.FC = () => {
   const [players, setPlayers] = useState<PlayerWithPoints[]>([]);
   const [filteredPlayers, setFilteredPlayers] = useState<PlayerWithPoints[]>([]);
@@ -22,7 +27,7 @@ const DraftBoard: React.FC = () => {
   const [selectedPosition, setSelectedPosition] = useState('ALL');
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [playerNotes, setPlayerNotes] = useState<{ [key: string]: string }>({});
+  const [playerNotes, setPlayerNotes] = useState<PlayerNotes>({});
   const positions = ['ALL', 'QB', 'RB', 'WR', 'TE', 'K', 'DEF'];
   const { draftPlayerToMine, draftPlayerToOthers, isPlayerDrafted } = useDraft();
 
@@ -39,10 +44,22 @@ const DraftBoard: React.FC = () => {
   };
 
   const handleNoteChange = (playerId: string, note: string) => {
-    setPlayerNotes(prev => ({
+    setPlayerNotes((prev: PlayerNotes) => ({
       ...prev,
       [playerId]: note
     }));
+  };
+
+  const handleNoteBlur = async (playerId: string, note: string) => {
+    try {
+      const updatedNotes = {
+        ...playerNotes,
+        [playerId]: note
+      };
+      await savePlayerNotes(updatedNotes);
+    } catch (error) {
+      console.error('Error saving note:', error);
+    }
   };
 
   useEffect(() => {
@@ -110,6 +127,18 @@ const DraftBoard: React.FC = () => {
     setFilteredPlayers(filtered);
   }, [searchTerm, selectedPosition, players, isPlayerDrafted]);
 
+  useEffect(() => {
+    const loadNotes = async () => {
+      try {
+        const savedNotes = await loadPlayerNotes();
+        setPlayerNotes(savedNotes);
+      } catch (error) {
+        console.error('Error loading player notes:', error);
+      }
+    };
+    loadNotes();
+  }, []);
+
   if (isLoading) {
     return (
       <div className="flex items-center justify-center p-8">
@@ -135,7 +164,7 @@ const DraftBoard: React.FC = () => {
   }
 
   return (
-    <div className="h-[calc(100vh-32px)] flex flex-col">
+    <div className="h-[calc(100vh-32px)] flex flex-col overflow-hidden">
       {/* Search and Filters */}
       <div className="flex items-center gap-4 p-4 bg-white sticky top-0 z-10 border-b border-gray-200 rounded-t-lg">
         <div className="flex-1">
@@ -198,6 +227,7 @@ const DraftBoard: React.FC = () => {
                   <textarea
                     value={playerNotes[player.id] || ''}
                     onChange={(e) => handleNoteChange(player.id, e.target.value)}
+                    onBlur={(e) => handleNoteBlur(player.id, e.target.value)}
                     placeholder="Add notes..."
                     className="w-full p-2 text-sm bg-white border border-gray-200 rounded resize-none focus:outline-none focus:border-blue-500"
                     rows={1}

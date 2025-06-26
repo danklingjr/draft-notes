@@ -194,15 +194,13 @@ const DraftBoard: React.FC = () => {
       </div>
 
       {/* Player List */}
-      <div className="flex-1 overflow-auto relative">
+      <div className="flex-1 overflow-auto relative rounded-b-lg">
         <table className="w-full">
           <thead className="sticky top-0 z-10">
             <tr className="bg-gray-50 text-gray-600 text-sm border-b border-gray-200">
               <th className="text-left py-3 px-4 font-medium">PLAYER</th>
-              <th className="text-left p-3 font-medium">POS</th>
-              <th className="text-left p-3 font-medium">BYE</th>
               <th className="text-left p-3 font-medium">PROJ</th>
-              <th className="text-left p-3 font-medium w-64">NOTES</th>
+              <th className="text-left p-3 font-medium">NOTES</th>
               <th className="text-right py-3 px-4 font-medium">DRAFT</th>
             </tr>
           </thead>
@@ -216,14 +214,14 @@ const DraftBoard: React.FC = () => {
                       <div className="font-medium text-gray-900">
                         {formatPlayerName(player)}
                       </div>
-                      <div className="text-xs text-gray-500">{player.team}</div>
+                      <div className="text-xs text-gray-500">
+                        {player.team}, {player.position} - Bye {player.byeWeek || '-'}
+                      </div>
                     </div>
                   </div>
                 </td>
-                <td className="p-3 text-sm text-gray-900">{player.position}</td>
-                <td className="p-3 text-sm text-gray-900">{player.byeWeek || '-'}</td>
                 <td className="p-3 text-sm text-gray-900">{formatPoints(player.projectedFantasyPoints2025)}</td>
-                <td className="p-3 w-auto">
+                <td className="p-3">
                   <textarea
                     value={playerNotes[player.id] || ''}
                     onChange={(e) => handleNoteChange(player.id, e.target.value)}

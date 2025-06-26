@@ -176,7 +176,7 @@ const DraftTable: React.FC<DraftTableProps> = ({
                             <div className="flex-1 min-w-0">
                               <div className="font-medium text-sm truncate">{entry.player.fullName}</div>
                               <div className="text-xs text-gray-500">
-                                {entry.player.team} • {entry.player.position} • {entry.team === 'mine' ? 'Mine' : 'Other'}
+                                {entry.player.team}, {entry.player.position} - Bye {entry.player.byeWeek || '-'}
                               </div>
                             </div>
                           </div>

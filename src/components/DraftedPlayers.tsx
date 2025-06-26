@@ -59,7 +59,7 @@ const DraftedPlayers: React.FC = () => {
                 <div className="min-w-0 flex-1">
                   <div className="text-sm text-gray-900 truncate">{formatPlayerName(entry.player)}</div>
                   <div className="text-xs text-gray-500">
-                    {entry.player.team} · {entry.player.position} · BYE {entry.player.byeWeek || '-'}
+                    {entry.player.team}, {entry.player.position} - Bye {entry.player.byeWeek || '-'}
                   </div>
                 </div>
                 <button

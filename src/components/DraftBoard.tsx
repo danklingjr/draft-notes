@@ -194,7 +194,7 @@ const DraftBoard: React.FC = () => {
       </div>
 
       {/* Player List */}
-      <div className="flex-1 overflow-auto relative">
+      <div className="flex-1 overflow-auto relative rounded-b-lg">
         <table className="w-full">
           <thead className="sticky top-0 z-10">
             <tr className="bg-gray-50 text-gray-600 text-sm border-b border-gray-200">

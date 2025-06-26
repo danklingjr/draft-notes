@@ -5,14 +5,16 @@ import DraftSidebar from './components/DraftSidebar';
 import { DraftProvider, useDraft } from './context/DraftContext';
 import { NFLPlayer, getNFLPlayers } from './services/nflService';
 
+const TEAMS = 10;
+
 const AppContent: React.FC = () => {
   const { myDraftedPlayers, otherDraftedPlayers, draftPlayerToMine, draftPlayerToOthers } = useDraft();
   const [availablePlayers, setAvailablePlayers] = useState<NFLPlayer[]>([]);
 
   // Calculate round and pick
   const totalDrafted = myDraftedPlayers.length + otherDraftedPlayers.length;
-  const round = Math.floor(totalDrafted / 12) + 1; // Assuming 12 teams
-  const pick = (totalDrafted % 12) + 1;
+  const round = Math.floor(totalDrafted / TEAMS) + 1;
+  const pick = (totalDrafted % TEAMS) + 1;
 
   // Load available players
   useEffect(() => {

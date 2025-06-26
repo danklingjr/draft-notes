@@ -27,7 +27,6 @@ const MyRoster: React.FC = () => {
     { id: 'BE4', position: 'BE', display: 'BE' },
     { id: 'BE5', position: 'BE', display: 'BE' },
     { id: 'BE6', position: 'BE', display: 'BE' },
-    { id: 'BE7', position: 'BE', display: 'BE' },
   ];
 
   const { myDraftedPlayers, undraftPlayer } = useDraft();

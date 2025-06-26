@@ -2,22 +2,28 @@ import React, { createContext, useContext, useState, useEffect } from 'react';
 import { NFLPlayer } from '../services/nflService';
 import { saveDraftState, loadDraftState, clearDraftState } from '../services/draftPersistenceService';
 
+export type DraftedPlayerEntry = {
+  player: NFLPlayer;
+  team: 'mine' | 'other';
+};
+
 interface DraftContextType {
-  myDraftedPlayers: NFLPlayer[];
-  otherDraftedPlayers: NFLPlayer[];
+  draftOrder: DraftedPlayerEntry[];
   draftPlayerToMine: (player: NFLPlayer) => void;
   draftPlayerToOthers: (player: NFLPlayer) => void;
-  undraftPlayer: (playerId: string, isFromMyRoster: boolean) => void;
+  undraftPlayer: (playerId: string) => void;
   isPlayerDrafted: (playerId: string) => boolean;
   clearDraft: () => void;
   saveCurrentDraft: () => Promise<void>;
+  updateDraftOrder: (newDraftOrder: DraftedPlayerEntry[]) => void;
+  myDraftedPlayers: NFLPlayer[];
+  otherDraftedPlayers: NFLPlayer[];
 }
 
 const DraftContext = createContext<DraftContextType | undefined>(undefined);
 
 export function DraftProvider({ children }: { children: React.ReactNode }) {
-  const [myDraftedPlayers, setMyDraftedPlayers] = useState<NFLPlayer[]>([]);
-  const [otherDraftedPlayers, setOtherDraftedPlayers] = useState<NFLPlayer[]>([]);
+  const [draftOrder, setDraftOrder] = useState<DraftedPlayerEntry[]>([]);
   const [autoSave, setAutoSave] = useState(true);
   const [isLoaded, setIsLoaded] = useState(false);
 
@@ -28,9 +34,8 @@ export function DraftProvider({ children }: { children: React.ReactNode }) {
       try {
         const state = await loadDraftState();
         console.log('Loaded state:', state);
-        if (state) {
-          setMyDraftedPlayers(state.myDraftedPlayers);
-          setOtherDraftedPlayers(state.otherDraftedPlayers);
+        if (state && state.draftOrder) {
+          setDraftOrder(state.draftOrder);
         }
       } catch (error) {
         console.error('Error loading initial state:', error);
@@ -38,73 +43,70 @@ export function DraftProvider({ children }: { children: React.ReactNode }) {
         setIsLoaded(true);
       }
     };
-
     loadInitialState();
   }, []);
 
   // Save state whenever it changes
   useEffect(() => {
-    if (!isLoaded) return; // Don't save until initial load is complete
-    
+    if (!isLoaded) return;
     if (autoSave) {
       console.log('Auto-saving state...');
-      saveDraftState(myDraftedPlayers, otherDraftedPlayers).catch(error => {
+      saveDraftState(draftOrder).catch(error => {
         console.error('Failed to save draft state:', error);
       });
     }
-  }, [myDraftedPlayers, otherDraftedPlayers, autoSave, isLoaded]);
+  }, [draftOrder, autoSave, isLoaded]);
 
   const clearDraft = () => {
     console.log('Clearing draft...');
     setAutoSave(false);
-    setMyDraftedPlayers([]);
-    setOtherDraftedPlayers([]);
+    setDraftOrder([]);
     clearDraftState();
     setAutoSave(true);
   };
 
   const saveCurrentDraft = async () => {
     console.log('Manual save triggered...');
-    await saveDraftState(myDraftedPlayers, otherDraftedPlayers);
+    await saveDraftState(draftOrder);
   };
 
   const draftPlayerToMine = (player: NFLPlayer) => {
-    console.log('Adding player to my roster:', player);
-    setMyDraftedPlayers(prev => [...prev, player]);
+    setDraftOrder(prev => [...prev, { player, team: 'mine' }]);
   };
 
   const draftPlayerToOthers = (player: NFLPlayer) => {
-    console.log('Adding player to others:', player);
-    setOtherDraftedPlayers(prev => [...prev, player]);
+    setDraftOrder(prev => [...prev, { player, team: 'other' }]);
   };
 
-  const undraftPlayer = (playerId: string, isFromMyRoster: boolean) => {
-    console.log('Undrafting player:', playerId, 'from my roster:', isFromMyRoster);
-    if (isFromMyRoster) {
-      setMyDraftedPlayers(prev => prev.filter(p => p.id !== playerId));
-    } else {
-      setOtherDraftedPlayers(prev => prev.filter(p => p.id !== playerId));
-    }
+  const undraftPlayer = (playerId: string) => {
+    setDraftOrder(prev => prev.filter(entry => entry.player.id !== playerId));
   };
 
   const isPlayerDrafted = (playerId: string) => {
-    return (
-      myDraftedPlayers.some(p => p.id === playerId) ||
-      otherDraftedPlayers.some(p => p.id === playerId)
-    );
+    return draftOrder.some(entry => entry.player.id === playerId);
   };
+
+  const updateDraftOrder = (newDraftOrder: DraftedPlayerEntry[]) => {
+    setDraftOrder([...newDraftOrder]);
+  };
+
+  // Selectors for convenience
+  const myDraftedPlayers = draftOrder.filter(entry => entry.team === 'mine').map(entry => entry.player);
+  const otherDraftedPlayers = draftOrder.filter(entry => entry.team === 'other').map(entry => entry.player);
 
   return (
     <DraftContext.Provider
       value={{
-        myDraftedPlayers,
-        otherDraftedPlayers,
+        draftOrder,
         draftPlayerToMine,
         draftPlayerToOthers,
         undraftPlayer,
         isPlayerDrafted,
         clearDraft,
         saveCurrentDraft,
+        updateDraftOrder,
+        myDraftedPlayers,
+        otherDraftedPlayers,
       }}
     >
       {children}

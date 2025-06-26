@@ -1,17 +1,16 @@
 import { NFLPlayer } from './nflService';
+import { DraftedPlayerEntry } from '../context/DraftContext';
 
 interface DraftState {
-  myDraftedPlayers: NFLPlayer[];
-  otherDraftedPlayers: NFLPlayer[];
+  draftOrder: DraftedPlayerEntry[];
   timestamp: string;
 }
 
 const STORAGE_KEY = 'draft_state';
 
-export async function saveDraftState(myDraftedPlayers: NFLPlayer[], otherDraftedPlayers: NFLPlayer[]): Promise<void> {
+export async function saveDraftState(draftOrder: DraftedPlayerEntry[]): Promise<void> {
   const state: DraftState = {
-    myDraftedPlayers,
-    otherDraftedPlayers,
+    draftOrder,
     timestamp: new Date().toISOString()
   };
 
@@ -29,14 +28,18 @@ export async function loadDraftState(): Promise<DraftState | null> {
   try {
     const savedState = localStorage.getItem(STORAGE_KEY);
     console.log('Loading draft state from storage:', savedState);
-    
+
     if (!savedState) {
       console.log('No saved state found');
       return null;
     }
-    
+
     const parsedState = JSON.parse(savedState);
     console.log('Parsed state:', parsedState);
+    // For backward compatibility, if draftOrder is missing, return empty array
+    if (!parsedState.draftOrder) {
+      parsedState.draftOrder = [];
+    }
     return parsedState;
   } catch (error) {
     console.error('Error loading draft state:', error);
